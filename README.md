@@ -1,5 +1,8 @@
 # Office-Hours
 
+```Hello world Devs 🌈🦄👩🏽‍💻``` El Office Hourse es un proyecto de ```Facebook Developer Circles: Ciudad de Mexico```en el que buscamos abrir un espacio para compartir conocimiento, contenido y buenas charlas sobre tecnologia, programacion y habilidades profesionales. A lo largo de los diferentes Office Hours podras encontrar contenido de diferentes areas, diferentes invitados y diferentes tecnologias.
+
+* [Office Hours ```23/SEP/21``` : Como Preparar un Linkedin Profesional en TI .]()
 
 
 # Code-of-Conduct
